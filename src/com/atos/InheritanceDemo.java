@@ -15,6 +15,7 @@ public class InheritanceDemo {
 		Manager mrg1 = new Manager (202,"SAM","Associate Consultant",301);
 		System.out.println(mrg);
 		System.out.println(mrg1);
+		System.out.println("Welcome to Github");
 
 	}
 
